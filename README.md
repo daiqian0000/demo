@@ -1,18 +1,15 @@
 # demo
 
-> A Vue.js project
+> 看你妈卖批
 
 ## Build Setup
 
 ``` bash
-# install dependencies
-npm install
+# 日你妈
 
-# serve with hot reload at localhost:8080
-npm run dev
+# 看锤子
 
-# build for production with minification
-npm run build
+# 弄你狗日的
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
